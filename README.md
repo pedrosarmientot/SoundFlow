@@ -1,6 +1,6 @@
 # SoundFlow— Reproductor de música con Lista Doblemente Enlazada
 
-*Examen Parcial · Estructuras de Datos (Curso 2026-2027) · Facultad de Ciencias Técnicas, Ingeniería Informática 2do año**
+*Examen Parcial · Estructuras de Datos (Curso 2026-2027) · Facultad de Ciencias Técnicas, Ingeniería Informática 2do año
 (canciones de Queen, Backstreet Boys y NSYNC) · **Equipo 7** 
 
 | Integrante | Método implementado |
